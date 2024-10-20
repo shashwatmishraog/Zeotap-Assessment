@@ -173,7 +173,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 # App2: TechWeath
 
-TechWeath is a user-friendly web application that delivers real-time weather information for your current location or any city around the globe. ☀️️❄️
+
+## Live Demo
+
+Ready to check out the weather in real-time? Visit the deployed TechWeath application:
+[Project URL APP 2]((https://app2-zeotap.netlify.app/))
 
 ## Features
 
@@ -188,11 +192,6 @@ TechWeath is a user-friendly web application that delivers real-time weather inf
 * OpenWeather API: Provides accurate and real-time weather data for your application.
 * Geolocation API: Pinpoints your current location for a personalized weather experience.
 * Axios: Enables streamlined communication with the OpenWeather API through HTTP requests.
-
-## Live Demo
-
-Ready to check out the weather in real-time? Visit the deployed TechWeath application:
-[Project URL APP 2]((https://app2-zeotap.netlify.app/))
 
 ## Getting Started (Optional)
 
