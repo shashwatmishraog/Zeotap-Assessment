@@ -177,7 +177,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Live Demo
 
 Ready to check out the weather in real-time? Visit the deployed TechWeath application:
-[Project URL APP 2](https://app2-zeotap.netlify.app/)
+[Project URL APP 2](https://zeotap2.netlify.app/main/rule-engine/)
 
 
 ## Features
